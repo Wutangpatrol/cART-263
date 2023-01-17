@@ -20,9 +20,11 @@ function preload() {
 /**
 Description of setup
 */
+
+
 function setup() {
     createCanvas (500,500);
-    background (0,255,0);  
+    background (100,100,100); 
 
 }
 
@@ -31,5 +33,5 @@ function setup() {
 Description of draw()
 */
 function draw() {
-
-}
+  
+    }
