@@ -52,13 +52,15 @@ function draw() {
 function mouseClicked () {
     
     let size = width / 3 ; 
-
-
-textSize (150);
-text ("X", mouseX, mouseY ); 
-
- 
-//fill (0); 
+  
+  
+    if ( mouseX <= 166 && mouseY <= 166 ) {
+     
+      textAlign (CENTER,CENTER);
+  textSize (170);
+  text ( "X" ,84,104);
+      
+    }
 
 
 
