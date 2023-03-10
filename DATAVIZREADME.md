@@ -12,3 +12,5 @@ Since i had to navigate through the datasets problems, I lost a bit of time, but
 
 #Iteration
 I got inspiration by the piece 'hard data' by Luke Dubois and also by exploring pieces from artist Ryoji Ikeda. 
+<img width="1120" alt="Screenshot 2023-03-02 145804" src="https://user-images.githubusercontent.com/113625517/224192957-e99b6ae1-26de-44a4-9b7c-f9c1a7303e70.png">
+<img width="1120" alt="Screenshot 2023-03-02 143518" src="https://user-images.githubusercontent.com/113625517/224192982-5c83d11c-83f3-487e-a028-49efea3a226c.png">
