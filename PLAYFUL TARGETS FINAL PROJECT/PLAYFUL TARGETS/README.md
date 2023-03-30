@@ -16,13 +16,15 @@ Done, 2 targets appear alteratively when the color being searched for appears ar
 
 Questions i have and need to figure out : 
 
-Will an ascii filter would slow down the game or maybe crash it ?
+Will an ascii filter would slow down the game or maybe crash it ? ____ Should we do it without ASCII and maybe just with some shapes ? ( circle ( x,y,dia) --- points ?
 
 Can we implement color tracking inside of an ascii filter ?
 
 Should we do ascii targets also ? 
 
 Im having a lot of trouble regarding the sizing of the webcam - canvas - filter ... will have to play around with that. 
+
+
 
 
 ## to dos (in no particular order)
